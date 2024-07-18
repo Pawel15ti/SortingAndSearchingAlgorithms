@@ -1,0 +1,1 @@
+This repository contains a collection of sorting and searching algorithms implemented in various programming languages. The purpose of this repository is to provide a comprehensive resource for learning and experimenting with fundamental algorithms used in computer science.
